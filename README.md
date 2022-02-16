@@ -8,7 +8,7 @@ Que tal se divertir um pouco com um jogo de perguntas sobre Programação?
   - tela de perguntas, com barra de tempo, perguntas e alternativas
   - tela de resultado: 
     - resultado de quantas perguntas foram respondidas
-    - resultado de quantas perguntas foram certas
+    - resultado de quantas perguntas foram corretas
     - resultado de quantas perguntas foram erradas
   - Voce ainda pode saber seu desempenho no quiz
 
