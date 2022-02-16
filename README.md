@@ -14,5 +14,6 @@ Que tal se divertir um pouco com um jogo de perguntas sobre Programação?
 
 # Gostou? Entao fique a vontande para baixar esse projeto e se divertir!
 
-![Captura de Tela 2022-02-16 às 18 47 02](https://user-images.githubusercontent.com/85207486/154363661-fc54a567-7ca3-436e-8583-a3b3f1c19e0e.png) ![Captura de Tela 2022-02-16 às 18 47 19](https://user-images.githubusercontent.com/85207486/154363831-021ab157-8d32-47a9-bd6b-47062934e5bc.png)
+![Captura de Tela 2022-02-16 às 18 47 02](https://user-images.githubusercontent.com/85207486/154363661-fc54a567-7ca3-436e-8583-a3b3f1c19e0e.png) ![Captura de Tela 2022-02-16 às 18 47 19](https://user-images.githubusercontent.com/85207486/154363831-021ab157-8d32-47a9-bd6b-47062934e5bc.png) ![Captura de Tela 2022-02-16 às 18 57 18](https://user-images.githubusercontent.com/85207486/154365898-94a56bb4-e167-41fe-8038-6808fcb6c426.png)
+
 
